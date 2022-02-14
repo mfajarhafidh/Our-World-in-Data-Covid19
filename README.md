@@ -12,8 +12,8 @@ After i explore the csv files, i arrange it to two different files with .xlsx ex
 
 ---
 
-## [Covid19_TotalCase.xlsx](../Covid19_TotalCase.xlsx)
+## [Covid19_TotalCase.xlsx](../main/Covid19_TotalCase.xlsx)
 
-## [Covid19_Vac.xlsx](../Covid19_Vac.xlsx)
+## [Covid19_Vac.xlsx](Covid19_Vac.xlsx)
 
 ---
