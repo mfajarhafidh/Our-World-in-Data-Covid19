@@ -4,7 +4,7 @@ The main mission is to explore the data about covid19 from Our World in Data, an
 
 ---
 
-##owid-covid-data.csv
+## owid-covid-data.csv
 
 ---
 
@@ -12,7 +12,8 @@ After i explore the csv files, i arrange it to two different files with .xlsx ex
 
 ---
 
-##Covid19_TotalCase.xlsx
-##Covid19_Vac.xlsx
+## Covid19_TotalCase.xlsx
+
+## Covid19_Vac.xlsx
 
 ---
